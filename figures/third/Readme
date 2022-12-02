@@ -1,0 +1,14 @@
+This folder contains third party software. Note that none of
+these packages are necessary for the proposed algorithm from the 
+manuscript to work. They are included in order to compare with 
+implementations of other existing and popular algorithms. 
+
+In particular, this folder contains an installation of TFOCS.
+
+The license terms under which TFOCS is distributed can found in
+the file TFOCS/LICENSE
+
+Note: The initialization routine for TFOCS at
+TFOCS/private/tfocs_initialize.m      
+has been replaced by a modified version written by Mahdi
+Soltanolkotabi (http://www-bcf.usc.edu/~soltanol/PRcode.html).
